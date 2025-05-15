@@ -20,12 +20,11 @@ As analyzing USA's national housing data, our goals are:
 
 ## 🚀 How to Run This Project
 
-### 1. Clone the Repository
-### 2. Set Up Environment (Optional)
-### 3. Install Required Packages
+1. Clone the Repository
+2. Set Up Environment (Optional)
+3. Install Required Packages
  - `pandas`, `matplotlib`, `seaborn`, `numpy`,  `plotly`,  `scikit-learn`,  `pyspark`
-
-### 4. Open Notebook and Run all cells to view full analysis and visualizations
+4. Open Notebook and Run all cells to view full analysis and visualizations
 
 ---
 
