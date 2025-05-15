@@ -8,7 +8,7 @@ This project analyzes the U.S. real estate market using a dataset of housing lis
 
 ## 🎯 Project Summary
 
-As data analysts working with national housing data, our goals are:
+As analyzing USA's national housing data, our goals are:
 
 - Clean and prepare the dataset for high-quality analysis  
 - Explore trends in house prices across different states and cities  
