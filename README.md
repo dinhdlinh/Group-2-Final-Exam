@@ -6,7 +6,7 @@ This project analyzes the U.S. real estate market using a dataset of housing lis
 
 ---
 
-## 🎯 Project Objective
+## 🎯 Project Summary
 
 As data analysts working with national housing data, our goals are:
 
@@ -21,39 +21,11 @@ As data analysts working with national housing data, our goals are:
 ## 🚀 How to Run This Project
 
 ### 1. Clone the Repository
-
-```bash
-git clone https://github.com/<your-org>/usa-house-analysis.git
-cd usa-house-analysis
-```
-
 ### 2. Set Up Environment (Optional)
-
-```bash
-python -m venv venv
-venv\Scripts\activate  # On Windows
-source venv/bin/activate  # On Mac/Linux
-```
-
 ### 3. Install Required Packages
+ - `pandas`, `matplotlib`, `seaborn`, `numpy`,  `plotly`,  `scikit-learn`,  `pyspark`
 
-```bash
-pip install -r requirements.txt
-```
-
-Or manually:
-
-```bash
-pip install pandas numpy matplotlib seaborn plotly scikit-learn pyspark
-```
-
-### 4. Open Notebook and Run
-
-```bash
-jupyter notebook
-```
-
-Run the notebook `Group 2 - US House Analysis.ipynb`
+### 4. Open Notebook and Run all cells to view full analysis and visualizations
 
 ---
 
