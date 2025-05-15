@@ -32,16 +32,16 @@ As analyzing USA's national housing data, our goals are:
 
 | Member Name                   | Contribution (%) |
 |------------------------------|------------------|
-| Đinh Diệu Linh               | 10%              |
-| Tạ Quốc Trung                | 10%              |
-| Võ Đăng Quang                | 10%              |
-| Lê Ngọc Linh                 | 10%              |
-| Lê Vũ Thiên Cầm              | 10%              |
-| Mai Nguyễn Huy Hoàng         | 10%              |
-| Mai Khánh Linh               | 10%              |
-| Nguyễn Hoàng Khánh Linh      | 10%              |
-| Bùi Diệp Anh                 | 10%              |
-| Bùi Phương Anh               | 10%              |
+| Đinh Diệu Linh               | 50%              |
+| Tạ Quốc Trung                | 01%              |
+| Võ Đăng Quang                | 01%              |
+| Lê Ngọc Linh                 | 01%              |
+| Lê Vũ Thiên Cầm              | 40%              |
+| Mai Nguyễn Huy Hoàng         | 01%              |
+| Mai Khánh Linh               | 01%              |
+| Nguyễn Hoàng Khánh Linh      | 01%              |
+| Bùi Diệp Anh                 | 01%              |
+| Bùi Phương Anh               | 01%              |
 
 ---
 
