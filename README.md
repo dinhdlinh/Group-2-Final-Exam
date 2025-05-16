@@ -7,7 +7,7 @@ This project analyzes the U.S. real estate market using a dataset of housing lis
 ---
 
 ## 📁 Dataset 
-https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
+- https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
 
 ---
 
